@@ -19,4 +19,4 @@ By prioritizing user safety and response times, our app ensures that individuals
 
 As a result of our group's combined efforts and expertise, we have created a car rescue app that sets new standards in the industry. Its comprehensive features and intuitive design make it a powerful asset in emergency situations, garnering the trust and confidence of users.
 
-Note: I have also included my final project report so you could have a clear understanding of how me and my team has implemented the app
+Note: I have also included my final project report so you could have a clear understanding of how me and my team has implemented the app. Also the files I have provided are just the src files meaning the main files required to run the application.
