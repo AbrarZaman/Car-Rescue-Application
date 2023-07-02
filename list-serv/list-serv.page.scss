@@ -1,0 +1,15 @@
+.hh{
+    --background: #c90404 !important;
+  }
+
+  .rr{color: #c90404; border: solid thin; border-radius: 25pt;}
+
+  .rr:hover{color: white; background-color: #c90404;}
+
+  hr {background-color: gray;}
+
+  .center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

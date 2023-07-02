@@ -1,0 +1,54 @@
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+
+--ion-content{background-color: red;}
+
+.toolbar {background-color: red;}
+--ion-toolbar {background-color: red;}
+
+ion-content {
+  --background: #c90404 !important;
+}
+
+.table {
+  margin: 0 auto; padding-right: 20pt;
+}
+
+.input{background-color: white; border: solid thin rgb(145, 145, 145); border-radius: 50pt; height: 30pt; width: 150pt;}
+
+.text{
+
+  color: white;  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; font-weight: bold;}
+
+.btn{ color: black; background-color: white; border-radius: 25pt;}
+
+.center{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

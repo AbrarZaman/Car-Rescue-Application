@@ -1,0 +1,31 @@
+<ion-header [translucent]="true">
+  <ion-toolbar class="hh">
+    <ion-title style="color: white;">
+
+      <table>
+        <tr>
+          <td>
+            <ion-button fill="clear" (click)="back()"><ion-icon name="caret-back-outline" style="color: white;"></ion-icon></ion-button>
+          </td>
+          <td><span class="crs">CRS</span></td>
+          <td></td>
+        </tr>
+      </table>
+
+
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+ <div class="mapp" #map id="map"></div>
+<br>
+ <div class="center">
+  <ion-button  class="rr" fill="clear"  (click)="RouteToNextNearest()">ride to near &nbsp;<b>ADNOC station</b></ion-button>
+</div>
+
+  
+<br>
+<p class="center">&copy; 2023 CRS Inc. All Rights Reserved</p>
+
+</ion-content>

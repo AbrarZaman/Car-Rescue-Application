@@ -1,0 +1,5 @@
+.body{background-color: red;}
+
+body {
+    --ion-background-color: #fa0f02; /* Replace #f0f0f0 with your desired background color */
+  }
