@@ -18,3 +18,5 @@ The car rescue app, developed collaboratively by our team, is a game-changer in 
 By prioritizing user safety and response times, our app ensures that individuals in distress receive the help they need promptly and efficiently. Its user-friendly interface and advanced functionalities make it an indispensable tool for anyone seeking reliable emergency support.
 
 As a result of our group's combined efforts and expertise, we have created a car rescue app that sets new standards in the industry. Its comprehensive features and intuitive design make it a powerful asset in emergency situations, garnering the trust and confidence of users.
+
+Note: I have also included my final project report so you could have a clear understanding of how me and my team has implemented the app
