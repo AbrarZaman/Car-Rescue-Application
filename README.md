@@ -1,4 +1,4 @@
-# Car-Rescue-Application-Using-Ionic-Framework
+# Car Rescue Application Using Ionic Framework
 
 Introduction:
 Our team has developed a remarkable car rescue application using HTML, SCSS, and TypeScript with the Ionic framework and Angular components. This highly functional app serves as a crucial tool in emergency situations, offering an array of essential features to aid users during critical moments.
