@@ -1,0 +1,33 @@
+.hh{
+    --background: #c90404 !important;
+  }
+
+  .card{
+    position: relative
+  }
+
+  .card img{
+    max-width: 100%;
+    height: auto;
+  }
+
+  .card-text{
+    position: absolute;
+    top: 0;
+    color: white;
+    padding: 10px;
+  }
+
+  .img1 {border-bottom-left-radius: 25pt; border-bottom-right-radius: 25pt;}
+
+  .img2 {border-radius: 25pt;}
+
+  .rr{color: #c90404; border: solid thin; border-radius: 25pt;}
+
+  .rr:hover{color: white; background-color: #c90404;}
+
+  .center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
